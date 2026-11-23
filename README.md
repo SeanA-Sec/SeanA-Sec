@@ -1,16 +1,27 @@
-## Hi there 👋
+🔐 Cybersecurity Professional
+I am a cybersecurity professional with 3+ years of experience helping organizations strengthen their security posture through vulnerability management, security operations, risk assessment, and threat detection.
 
-<!--
-**SeanA-Sec/SeanA-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current focus is expanding my expertise in cloud security and security architecture while preparing for the Certified Cloud Security Professional (CCSP) certification.
 
-Here are some ideas to get you started:
+🚀 Currently Learning
+☁️ Cloud Security Architecture
+🔒 CCSP (Certified Cloud Security Professional)
+Blue Team Operations & Threat Hunting
+Security Automation with Python
+Advanced Incident Response & Detection Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Certifications
+Earned Certifications
+✅ CISSP Exam Passed (Associate of ISC² until endorsement requirements are met)
+✅ CompTIA Security+
+✅ CompTIA CySA+
+✅ CompTIA PenTest+
+
+In Progress
+📚 CCSP (Certified Cloud Security Professional)
+
+🛠️ Security Tools & Technologies
+Security Platforms
+Microsoft Defender
+Wiz
+Tenable Nessus
